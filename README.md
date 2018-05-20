@@ -14,6 +14,7 @@ To be done by the Tech team
 
 
 
-### Contributing
+
+## Contributing
 If you are intrested in contributing your ideas feel free to contact us through
 ```adarsh@merclain.com```
